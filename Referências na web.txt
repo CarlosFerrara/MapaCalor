@@ -1,0 +1,6 @@
+Creating Heat Maps with C# .NET
+http://dylanvester.com/2015/10/creating-heat-maps-with-net-20-c-sharp/
+
+Como usar a classe Graphics
+https://www.techotopia.com/index.php/Drawing_Graphics_in_C_Sharp
+https://www.techotopia.com/index.php/Using_Bitmaps_for_Persistent_Graphics_in_C_Sharp#Why_Use_Bitmaps_for_Graphics_Persistence_in_C.23.3F

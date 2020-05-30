@@ -1,0 +1,10 @@
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.csprojResolveAssemblyReference.cache
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.Form1.resources
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.Properties.Resources.resources
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.csproj.GenerateResource.Cache
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.csproj.CoreCompileInputs.cache
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\bin\Debug\MapaCalor.exe.config
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\bin\Debug\MapaCalor.exe
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\bin\Debug\MapaCalor.pdb
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.exe
+C:\Users\Ferrara\Desktop\HPPA\MapaCalor\MapaCalor\obj\Debug\MapaCalor.pdb
